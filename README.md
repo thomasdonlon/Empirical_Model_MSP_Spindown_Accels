@@ -1,5 +1,12 @@
 Data file for "Empirical Modeling of Magnetic Braking in Millisecond Pulsars to Measure the Local Dark Matter Density and Effects of Orbiting Satellite Galaxies". 
 
+Description of Files: 
+=======================================
+data.csv:  Full dataset. Modeled spindown and spin acceleration values are only provided for sources where these quantities are believed to be accurate. 
+
+binary_only.csv:  Only the data for the binary millisecond pulsars (no spin data). 
+
+
 Description of Columns: 
 =======================================
 NAME:  Name of PSR 
