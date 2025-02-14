@@ -1,4 +1,4 @@
-Data file for "Leveraging an Empirical Model for Magnetic Braking in Millisecond Pulsars Reveals a Tension in the Local Dark Matter Density". 
+Data file for "Empirical Modeling of Magnetic Braking in Millisecond Pulsars to Measure the Local Dark Matter Density and Effects of Orbiting Satellite Galaxies". 
 
 Description of Columns: 
 =======================================
