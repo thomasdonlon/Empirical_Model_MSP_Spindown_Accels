@@ -5,10 +5,15 @@ Description of Folders:
 v1: Dataset that was used in Donlon et al. (2025). 
 
 v2: Updated dataset with some minor changes:
+
 	- Addition of distance to the catalog
+ 
 	- Some new distance and proper motion data incorporated from ATNF after submission of paper
+ 
 	- PSR J1453+1902 has been removed due to negative parallax
+ 
 	- Proper motion now in units of mas/yr
+ 
 	- Binary orbital period now in units of days
 
 
