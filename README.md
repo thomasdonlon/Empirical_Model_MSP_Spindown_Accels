@@ -40,7 +40,7 @@ PMTOT:	Total proper motion (mas/yr)
 
 PMTOT_ERR:	Uncertainty in total proper motion (mas/yr)
 
-DIST:	Distance to the pulsar (kpc). NOTE: This is a curated distance list, and is not necessarily equal to 1/PX!
+DIST:	Distance to the pulsar (kpc). NOTE: This is a curated distance list, and is not necessarily equal to 1/PX! (Use this instead of 1/PX for analysis)
 
 DIST_ERR:	Uncertainty in distance (kpc)
 
