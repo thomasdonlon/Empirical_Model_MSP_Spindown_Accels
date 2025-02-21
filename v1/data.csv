@@ -1,5 +1,5 @@
 NAME,GL,GB,PX,PX_ERR,PMTOT,PMTOT_ERR,PS,PS_ERR,PSDOT_OBS,PSDOT_OBS_ERR,PSDOT_SHK,PSDOT_SHK_ERR,PSDOT_B,PSDOT_B_ERR,MODEL_PSDOT_B,MODEL_PSDOT_B_ERR,ALOS_PS,ALOS_PS_ERR,PB,PB_ERR,PBDOT,PBDOT_ERR,PBDOT_SHK,PBDOT_SHK_ERR,PBDOT_GR,PBDOT_GR_ERR,ALOS_PB,ALOS_PB_ERR,BSURF,BSURF_ERR,CHAR_AGE,CHAR_AGE_ERR
-,(deg),(deg),(mas),(mas),(mas/yr),(mas/yr),(s),(s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(mm/s/yr),(mm/s/yr),(days),(days),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(mm/s/yr),(mm/s/yr),(G),(G),(s),(s)
+,(deg),(deg),(mas),(mas),(rad/s),(rad/s),(s),(s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(mm/s/yr),(mm/s/yr),(s),(s),(s/s),(s/s),(s/s),(s/s),(s/s),(s/s),(mm/s/yr),(mm/s/yr),(G),(G),(s),(s)
 J0023+0923,111.383,-52.849,0.55,0.13,2.14E-15,1.54E-17,0.003050203105,4.00E-18,1.14E-20,1.40E-25,2.60E-21,6.17E-22,,,6.92E-21,2.33E-22,5.889776686,2.044192956,,,,,,,,,,,165977382.1,5800740.897,1.73E+17,1.21E+16
 J0030+0451,113.141,-57.611,3.09,0.06,9.48E-16,9.23E-18,0.004865453286,5.00E-17,1.02E-20,3.00E-25,1.46E-22,4.00E-24,,,1.03E-20,2.74E-22,-0.5378891108,0.532854743,,,,,,,,,,,223523589.1,44753.47537,2.43E+17,97141152236730
 J0125-2327,188.932,-81.569,1.4,0.3,5.94E-15,1.54E-17,0.003675374888,1.40E-17,1.84E-20,1.40E-24,9.53E-21,2.04E-21,,,7.91E-21,2.44E-22,2.498869371,5.297050627,,,,,,,,,,,182861786.8,21024204.87,2.07E+17,4.76E+16
