@@ -1,5 +1,17 @@
 Data file for "Empirical Modeling of Magnetic Braking in Millisecond Pulsars to Measure the Local Dark Matter Density and Effects of Orbiting Satellite Galaxies". 
 
+Description of Folders: 
+=======================================
+v1: Dataset that was used in Donlon et al. (2025). 
+
+v2: Updated dataset with some minor changes:
+	- Addition of distance to the catalog
+	- Some new distance and proper motion data incorporated from ATNF after submission of paper
+	- PSR J1453+1902 has been removed due to negative parallax
+	- Proper motion now in units of mas/yr
+	- Binary orbital period now in units of days
+
+
 Description of Files: 
 =======================================
 data.csv:  Full dataset. Modeled spindown and spin acceleration values are only provided for sources where these quantities are believed to be accurate. 
@@ -22,6 +34,10 @@ PX_ERR:	Uncertainty in parallax (mas)
 PMTOT:	Total proper motion (mas/yr)
 
 PMTOT_ERR:	Uncertainty in total proper motion (mas/yr)
+
+DIST:	Distance to the pulsar (kpc). NOTE: This is a curated distance list, and is not necessarily equal to 1/PX!
+
+DIST_ERR:	Uncertainty in distance (kpc)
 
 PS:	Spin period (s)
 
