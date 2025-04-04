@@ -2,7 +2,7 @@ Data file for "Empirical Modeling of Magnetic Braking in Millisecond Pulsars to 
 
 Description of Folders: 
 =======================================
-v1: Dataset that was used in Donlon et al. (2025). 
+v1: Dataset that was used in the original arXiv posting of Donlon et al. (2025). 
 
 v2: Updated dataset with some minor changes:
 
@@ -15,6 +15,12 @@ v2: Updated dataset with some minor changes:
 	- Proper motion now in units of mas/yr
  
 	- Binary orbital period now in units of days
+	
+v3: Removed several pulsars from the data. 
+
+	- These include 5 black widows: J0023+0923, J0610-2100, J0636+5128, J1653-0158, and J2241-5236.
+
+	- J2043+1711 was accidentally left in the catalog. It has been removed. 
 
 
 Description of Files: 
