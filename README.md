@@ -70,7 +70,7 @@ MODEL_PSDOT_B:	Modeled intrinsic spindown term (s/s)
 
 MODEL_PSDOT_B_ERR:	Uncertainty in MODEL_PSDOT_B (s/s)
 
-ALOS_PS:	Line-of-sight acceleration, assuming MODEL_PSDOT_B is correct. The Shklovskii and magnetic braking terms have already been removed from this value. (mm/s/yr = cm/s/decade)
+ALOS_PS:	Line-of-sight acceleration, assuming MODEL_PSDOT_B is correct. The Shklovskii and magnetic braking terms have already been removed from this value. Equal to the Galactic acceleration assuming no other effects are present. (mm/s/yr = cm/s/decade)
 
 ALOS_PS_ERR:	Uncertainty in ALOS_PS (mm/s/yr)
 
@@ -90,7 +90,7 @@ PBDOT_GR:	GR term for the binary orbital period derivative (decay from grav. wav
 
 PBDOT_GR_ERR:	Uncertainty in PBDOT_GR (s/s)
 
-ALOS_PB:	Line-of-sight acceleration, calculated using the binary orbital period data. The GR and Shklovskii terms have already been removed from this value. (In most cases, use this over ALOS_PS if available, but consult ALOS_PS_ERR and ALOS_PB_ERR) (mm/s/yr)
+ALOS_PB:	Line-of-sight acceleration, calculated using the binary orbital period data. The GR and Shklovskii terms have already been removed from this value. Equal to the Galactic acceleration assuming no other effects are present. (In most cases, use this over ALOS_PS if available, but consult ALOS_PS_ERR and ALOS_PB_ERR) (mm/s/yr)
 
 ALOS_PB_ERR:	Uncertainty in ALOS_PB (mm/s/yr)
 
