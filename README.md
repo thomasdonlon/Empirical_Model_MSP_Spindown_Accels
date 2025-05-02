@@ -66,7 +66,7 @@ PSDOT_B:	Directly computed intrinsic spindown term (see Eq. 7 of the paper) (s/s
 
 PSDOT_B_ERR:  Uncertainty in PSDOT_B_ERR (s/s)
 
-MODEL_PSDOT_B:	Modeled intrinsic spindown term (s/s)
+MODEL_PSDOT_B:	Modeled intrinsic spindown term (see Eq. 12 of the paper) (s/s)
 
 MODEL_PSDOT_B_ERR:	Uncertainty in MODEL_PSDOT_B (s/s)
 
