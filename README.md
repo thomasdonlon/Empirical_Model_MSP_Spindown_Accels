@@ -25,7 +25,7 @@ v3: Removed several pulsars from the data.
 
 Description of Files: 
 =======================================
-data.csv:  Full dataset. Modeled spindown and spin acceleration values are only provided for sources where these quantities are believed to be accurate. 
+data.csv:  Full dataset. Modeled spindown and spin acceleration values are only provided for sources where these quantities are believed to be accurate (in other words, only for pulsars that satisfy the BSURF and CHAR_AGE cuts from the paper). 
 
 binary_only.csv:  Only the data for the binary millisecond pulsars (no spin data). 
 
