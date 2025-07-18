@@ -78,7 +78,7 @@ PB:	Binary orbital period (days)
 
 PB_ERR:	Uncertainty in PB (days)
 
-PBDOT:	Time derivative of the binary orbital period (s/s)
+PBDOT:	Observed time derivative of the binary orbital period (what is measured by PTAs) (s/s)
 
 PBDOT_ERR:	Uncertainty in PBDOT (s/s)
 
