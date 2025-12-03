@@ -16,7 +16,7 @@ v2: Updated dataset with some minor changes:
  
 	- Binary orbital period now in units of days
 	
-v3: Removed several pulsars from the data. 
+v3: Removed several pulsars from the data. This is the final version that was used in the published version of the paper. 
 
 	- These include 5 black widows: J0023+0923, J0610-2100, J0636+5128, J1653-0158, and J2241-5236.
 
